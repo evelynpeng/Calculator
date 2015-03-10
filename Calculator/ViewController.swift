@@ -71,7 +71,7 @@ class ViewController: UIViewController
             displayValue = result
         }else{
             displayValue = 0
-//           return nil (need to make display as optional)
+//           return nil (need to make display as optional) for assignmetn2
         }
         
     }
